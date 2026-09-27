@@ -2,7 +2,7 @@
 
 Hands-on projects completed for the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) (Coursera). Each folder contains a short summary and the full report as a PDF.
 
-**Author:** Colin Michael Kohchet-Chua — engineering student, Kyoto University of Advanced Science
+**Author:** Colin Michael Kohchet-Chua - engineering student, Kyoto University of Advanced Science
 
 ## Projects
 
